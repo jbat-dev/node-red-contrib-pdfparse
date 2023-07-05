@@ -26,7 +26,7 @@
     "pdf-parse"
   ],
   "dependencies": {
-    "pdf-parse": "git+https://github.com/jbat-dev/pdf-parse.git#f41b4f9c626397f65195559447e05b0f2cd450b7"
+    "pdf-parse": "git+https://github.com/jbat-dev/pdf-parse.git#939cf622b3d6ab0f7666d5d9d9101750384c1525"
   },
   "license": "MIT"
 }
